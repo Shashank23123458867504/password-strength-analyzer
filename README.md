@@ -33,3 +33,27 @@ A simple Python command-line project that analyzes password strength based on co
 ## How to Run
 ```bash
 python password_checker.py
+
+
+## Sample Output
+
+Enter the password: Hello@123
+
+Password Analysis:
+Length: 9
+Uppercase: 1
+Lowercase: 4
+Digits: 3
+Special Characters: 1
+
+Password Strength: Strong
+
+Suggestions:
+- No improvements needed
+
+## What I Learned
+
+- How to analyze strings in Python
+- How to count uppercase, lowercase, digits, and special characters
+- How to build a simple CLI-based validation tool
+- Basics of password hashing using SHA-256
