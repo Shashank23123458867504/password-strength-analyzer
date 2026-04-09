@@ -33,7 +33,7 @@ A simple Python command-line project that analyzes password strength based on co
 ## How to Run
 ```bash
 python password_checker.py
-
+```
 
 ## Sample Output
 
